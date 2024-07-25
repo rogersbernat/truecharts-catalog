@@ -1,0 +1,9 @@
+dependencies:
+- name: common
+  repository: oci://tccr.io/truecharts
+  version: 24.1.6
+- name: cloudnative-pg
+  repository: https://cloudnative-pg.github.io/charts
+  version: 0.21.5
+digest: sha256:20c72a53ad7e745e4c3bc2f8302c905d018791f75cb6f008b4bd912327746ff8
+generated: "2024-07-24T16:58:38.666239705Z"

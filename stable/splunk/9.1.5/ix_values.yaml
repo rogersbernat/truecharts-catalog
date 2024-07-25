@@ -1,0 +1,71 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: splunk/splunk
+  tag: 9.2.2@sha256:7109dc42565ad45b207483a6124802e2dff4c07a7c2a187cce6f0e9692fb8ff4
+
+securityContext:
+  container:
+    runAsNonRoot: false
+    readOnlyRootFilesystem: false
+    runAsUser: 0
+    runAsGroup: 0
+
+splunk:
+  acceptLicense: true
+  password: changeme
+  extraArgs: []
+
+service:
+  dataingest:
+    enabled: true
+    ports:
+      dataingest:
+        enabled: true
+        port: 9997
+        protocol: http
+        targetPort: 9997
+  main:
+    ports:
+      main:
+        port: 8000
+        protocol: http
+        targetPort: 8000
+  hec:
+    enabled: true
+    ports:
+      hec:
+        enabled: true
+        port: 8088
+        protocol: http
+        targetPort: 8088
+  management:
+    enabled: true
+    ports:
+      management:
+        enabled: true
+        port: 8089
+        protocol: http
+        targetPort: 8089
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          envFrom:
+            - secretRef:
+                name: "secret"
+
+persistence:
+  appcreds:
+    enabled: true
+    mountPath: /opt/splunk/etc/
+  config:
+    enabled: true
+    mountPath: /opt/splunk/var
+  data:
+    enabled: true
+    mountPath: /splunkdata
+
+portal:
+  open:
+    enabled: true
