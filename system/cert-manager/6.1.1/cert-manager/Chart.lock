@@ -1,9 +1,0 @@
-dependencies:
-- name: common
-  repository: oci://tccr.io/truecharts
-  version: 24.1.6
-- name: cert-manager
-  repository: https://charts.jetstack.io
-  version: v1.15.1
-digest: sha256:cf303912019abbbb7b789e51f0346907a78220a50f23b9d913ca271dc8908076
-generated: "2024-07-24T16:58:36.742833621Z"
