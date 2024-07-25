@@ -1,0 +1,9 @@
+dependencies:
+- name: common
+  repository: oci://tccr.io/truecharts
+  version: 24.1.6
+- name: metallb
+  repository: https://metallb.github.io/metallb
+  version: 0.14.5
+digest: sha256:d8b86eff53d42c81d84d51034928f8fdc1eb2bec081d42a9eb7f47078d101c9d
+generated: "2024-07-24T16:58:55.700977489Z"
