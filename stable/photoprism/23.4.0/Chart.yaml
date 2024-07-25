@@ -9,8 +9,12 @@ apiVersion: v2
 appVersion: 240711.0.0
 dependencies:
 - name: common
+  version: 23.0.10
   repository: oci://tccr.io/truecharts
-  version: 24.1.5
+  condition: ""
+  alias: ""
+  tags: []
+  import-values: []
 - condition: mariadb.enabled
   name: mariadb
   repository: oci://tccr.io/truecharts
