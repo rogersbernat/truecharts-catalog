@@ -8,9 +8,13 @@ annotations:
 apiVersion: v2
 appVersion: 3.3.21
 dependencies:
-- name: common
-  repository: oci://tccr.io/truecharts
-  version: 24.1.5
+  - name: common
+    version: 23.0.10
+    repository: oci://tccr.io/truecharts
+    condition: ""
+    alias: ""
+    tags: []
+    import-values: []
 description: FlareSolverr is a proxy server to bypass Cloudflare protection
 home: https://truecharts.org/charts/stable/flaresolverr
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/flaresolverr.webp

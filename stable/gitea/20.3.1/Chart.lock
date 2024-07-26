@@ -1,9 +1,13 @@
 dependencies:
-- name: common
-  repository: oci://tccr.io/truecharts
-  version: 24.1.5
-- name: memcached
-  repository: oci://tccr.io/truecharts
-  version: 14.1.5
+  - name: common
+    version: 23.0.10
+    repository: oci://tccr.io/truecharts
+    condition: ""
+    alias: ""
+    tags: []
+    import-values: []
+  - name: memcached
+    repository: oci://tccr.io/truecharts
+    version: 14.1.5
 digest: sha256:569f6cab889fbb41fcc17b5d9573b4a70cbb75e451c08ff07d72c85354a99354
 generated: "2024-07-25T12:44:21.405907075Z"

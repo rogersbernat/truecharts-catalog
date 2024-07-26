@@ -8,9 +8,13 @@ annotations:
 apiVersion: v2
 appVersion: 11.1.0
 dependencies:
-- name: common
-  repository: oci://tccr.io/truecharts
-  version: 24.1.5
+  - name: common
+    version: 23.0.10
+    repository: oci://tccr.io/truecharts
+    condition: ""
+    alias: ""
+    tags: []
+    import-values: []
 description: Grafana is an open source, feature rich metrics dashboard and graph editor
   for Graphite, Elasticsearch, OpenTSDB, Prometheus and InfluxDB.
 home: https://truecharts.org/charts/premium/grafana

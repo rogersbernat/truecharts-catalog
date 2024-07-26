@@ -8,13 +8,17 @@ annotations:
 apiVersion: v2
 appVersion: 29.0.4
 dependencies:
-- name: common
-  repository: oci://tccr.io/truecharts
-  version: 24.1.5
-- condition: redis.enabled
-  name: redis
-  repository: oci://tccr.io/truecharts
-  version: 15.1.5
+  - name: common
+    version: 23.0.10
+    repository: oci://tccr.io/truecharts
+    condition: ""
+    alias: ""
+    tags: []
+    import-values: []
+  - condition: redis.enabled
+    name: redis
+    repository: oci://tccr.io/truecharts
+    version: 15.1.5
 description: A private cloud server that puts the control and security of your own
   data back into your hands.
 home: https://truecharts.org/charts/premium/nextcloud
