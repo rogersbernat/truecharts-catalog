@@ -95,4 +95,4 @@ ogkubeapps:
   apprepository:
     initialRepos:
       - name: truecharts
-        url: https://charts.truecharts.org
+        url: https://github.com/rogersbernat/truecharts-catalog
