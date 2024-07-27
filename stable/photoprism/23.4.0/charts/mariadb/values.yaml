@@ -1,7 +1,7 @@
 image:
   repository: bitnami/mariadb
   pullPolicy: IfNotPresent
-  tag: 11.4.2@sha256:5aaf1d79f93f6096846936cb1fd969c80ace15f569fb63d3e686a7d6c10fc280
+  tag: 11.4.2@sha256:a7c5a110f197097d4b05ae5df9f399bbb011ab07cc2451ae6c5e366c80f9ba65
 
 includeCommon: true
 workload:
