@@ -10,7 +10,7 @@ appVersion: 1.27.9
 dependencies:
 - name: common
   repository: oci://tccr.io/truecharts
-  version: 24.1.5
+  version: 23.0.10
 description: P2P file synchronization application
 home: https://truecharts.org/charts/stable/syncthing
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/syncthing.webp
