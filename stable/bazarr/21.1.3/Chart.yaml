@@ -10,7 +10,7 @@ appVersion: 1.4.3
 dependencies:
 - name: common
   repository: oci://tccr.io/truecharts
-  version: 24.1.5
+  version: 23.0.10
 description: Bazarr is a companion application to Sonarr and Radarr. It manages and
   downloads subtitles based on your requirements
 home: https://truecharts.org/charts/stable/bazarr
