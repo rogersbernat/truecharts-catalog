@@ -11,7 +11,7 @@
             "definitions/certificate",
             "definitions/interface"
         ],
-        "human_version": "11.1.0_17.2.2",
+        "human_version": "11.1.3_17.2.2",
         "version": "17.2.2",
         "chart_metadata": {
             "annotations": {
@@ -21,7 +21,7 @@
                 "truecharts.org/train": "premium"
             },
             "apiVersion": "v2",
-            "appVersion": "11.1.0",
+            "appVersion": "11.1.3",
             "dependencies": [
                 {
                     "name": "common",
