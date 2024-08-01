@@ -10,7 +10,7 @@ appVersion: latest
 dependencies:
 - name: common
   repository: oci://tccr.io/truecharts
-  version: 24.1.6
+  version: 23.0.0
 description: Traefik-CRDs contains the CRD's for Traefik
 home: https://truecharts.org/charts/system/traefik-crds
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/traefik-crds.webp
