@@ -15,10 +15,10 @@ dependencies:
     alias: ""
     tags: []
     import-values: []
-- condition: memcached.enabled
-  name: memcached
-  repository: oci://tccr.io/truecharts
-  version: 14.1.5
+  - condition: memcached.enabled
+    name: memcached
+    repository: oci://tccr.io/truecharts
+    version: 14.1.5
 description: Self hosted GIT repositories
 home: https://truecharts.org/charts/stable/gitea
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/gitea.webp
