@@ -47,9 +47,9 @@
       "commitMessageExtra": "to {{#if isSingleVersion}}v{{{newVersion}}}{{else}}{{{newValue}}}{{/if}}@{{newDigestShort}}"
     },
     {
-      "matchDatasources": ["helm"],
+      "matchManagers": ["helmv3"],
       "matchPackageNames": ["common"],
-      "enabled": false // Explicitly ignore updates for the "common" chart
+      "enabled": false
     }
   ]
 }
