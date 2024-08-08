@@ -490,7 +490,7 @@ scratchImage:
 
 kubectlImage:
   repository: tccr.io/tccr/kubectl
-  tag: latest@sha256:a7759b1207e88abb65f0b4b2c2f8eec48db8c176097fc405a64511eea91d9b5c
+  tag: latest@sha256:7ff1fcaabaabaa3c6a202457569e3ec35a2a4470d81f4e56210a1a7efd858435
   pullPolicy: IfNotPresent
 
 wgetImage:
