@@ -485,7 +485,7 @@ alpineImage:
 
 scratchImage:
   repository: tccr.io/tccr/scratch
-  tag: latest@sha256:fa8db430d07a3b98f84cce7c7d56bb4ea6cdd64fb178d64227177caae47c343b
+  tag: latest@sha256:54bd0048109d001deeed9f2c880d01fa8c98deab6e43d07a2b3ef550e086fcc7
   pullPolicy: IfNotPresent
 
 kubectlImage:
