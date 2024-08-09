@@ -36,9 +36,9 @@ jobs:
           sudo apt-get update -qq
           sudo apt-get install -y python3-all-dev python3-pip python3-setuptools
           git clone https://github.com/truenas/catalog_validation
-          sudo ${{ env.PIP_BIN }} install --upgrade pip
-          sudo ${{ env.PIP_BIN }} install --disable-pip-version-check --exists-action w -r catalog_validation/requirements.txt
-          sudo ${{ env.PIP_BIN }} install -U catalog_validation/.
+          sudo ${{ env.PIP_BIN }} install --upgrade pip --break-system-packages
+          sudo ${{ env.PIP_BIN }} install --disable-pip-version-check --exists-action w -r catalog_validation/requirements.txt --break-system-packages
+          sudo ${{ env.PIP_BIN }} install -U catalog_validation/. --break-system-packages
 
       - name: Debug Environment and Installations
         run: |
