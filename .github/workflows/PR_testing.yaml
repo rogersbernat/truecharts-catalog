@@ -19,6 +19,9 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Mark directory as safe
+        run: git config --global --add safe.directory /__w/truecharts-catalog/truecharts-catalog
+
       - name: Fetch base branch history
         run: git fetch --no-tags --prune --depth=1 origin +refs/heads/test-2:refs/remotes/origin/test-2
 
