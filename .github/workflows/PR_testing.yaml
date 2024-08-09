@@ -50,11 +50,6 @@ jobs:
           echo "Listing installed Python packages:"
           ${{ env.PIP_BIN }} list
           echo
-          echo "Checking if charts_validate is in /usr/local/bin:"
-          ls -l /usr/local/bin/charts_validate || echo "charts_validate not found in /usr/local/bin"
-          echo
-          echo "Checking if catalog_validate is in /usr/local/bin:"
-          ls -l /usr/local/bin/catalog_validate || echo "catalog_validate not found in /usr/local/bin"
 
       - name: Validate changed charts
         run: |
