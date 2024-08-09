@@ -25916,5 +25916,8 @@
             ],
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/volumesnapshots.webp"
         }
+    },
+    "prometheus-operator": {
+        "version": "7.0.9"
     }
 }
