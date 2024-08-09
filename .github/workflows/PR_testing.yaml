@@ -19,21 +19,29 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Mark directory as safe
+        run: git config --global --add safe.directory /__w/truecharts-catalog/truecharts-catalog
+
       - name: Fetch base branch history
-        run: git fetch --no-tags --prune --depth=1 origin +refs/heads/master:refs/remotes/origin/master
+        run: git fetch --no-tags --prune --depth=1 origin +refs/heads/test-2:refs/remotes/origin/test-2
 
       - name: Setup catalog validation
         run: |
           sudo apt-get update -qq
-          sudo apt-get install -y python3-all-dev python3-pip python3-setuptools
+          sudo apt-get install -y python3-all-dev python3-venv
+          python3 -m venv venv
+          source venv/bin/activate
           git clone https://github.com/truenas/catalog_validation
-          sudo pip3 install --disable-pip-version-check --exists-action w -r catalog_validation/requirements.txt
-          sudo pip3 install -U catalog_validation/.
-
-      - name: Validate catalog format
-        run: |
-          /bin/bash -c "PWD=${pwd}; /usr/local/bin/catalog_validate validate --path $PWD"
+          pip install --upgrade pip
+          pip install --disable-pip-version-check --exists-action w -r catalog_validation/requirements.txt
+          pip install -U catalog_validation/.
 
       - name: Validate changed charts
         run: |
+          source venv/bin/activate
           /bin/bash -c "PWD=${pwd}; sudo /usr/local/bin/charts_validate deploy --path $PWD"
+
+      - name: Validate catalog format
+        run: |
+          source venv/bin/activate
+          /bin/bash -c "PWD=${pwd}; /usr/local/bin/catalog_validate validate --path $PWD"
