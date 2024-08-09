@@ -48,7 +48,7 @@
     },
     {
       "matchManagers": ["helmv3"],
-      "matchPackageNames": ["common"],
+      "matchDepNames": ["common"],
       "enabled": false
     }
   ]
