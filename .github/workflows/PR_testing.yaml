@@ -54,9 +54,9 @@ jobs:
       - name: Validate changed charts
         run: |
           echo "Running charts_validate..."
-          sudo /usr/local/bin/charts_validate deploy --path $PWD
+          /bin/bash -c "PWD=${pwd}; sudo /usr/local/bin/charts_validate deploy --path $PWD"
 
       - name: Validate catalog format
         run: |
           echo "Running catalog_validate..."
-          sudo /usr/local/bin/catalog_validate validate --path $PWD
+          /bin/bash -c "PWD=${pwd}; /usr/local/bin/catalog_validate validate --path $PWD"
