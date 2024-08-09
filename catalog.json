@@ -25918,6 +25918,6 @@
         }
     },
     "prometheus-operator": {
-        "version": "7.0.9"
+        "version": "7.0.10"
     }
 }
