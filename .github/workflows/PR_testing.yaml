@@ -1,39 +1,36 @@
 name: "Apps: Test PR"
 
-on:
-  pull_request:
-    types: [opened, synchronize, reopened]
+on: [pull_request]
 
 jobs:
-  test-and-validate:
+  test-apps:
     runs-on: ubuntu-latest
     container:
-      image: ixsystems/catalog_validation:latest@sha256:ec054455af9857782d13f0507b0e0378ed0dee83dab11a3e1e5939eebb083522
+      image: ixsystems/catalog_validation:latest
 
     steps:
       - name: Install Helm
-        run: curl -fsSL https://raw.githubusercontent.com/helm/helm/master/scripts/get-helm-3 | bash
+        run: /bin/bash -c "curl https://raw.githubusercontent.com/helm/helm/master/scripts/get-helm-3 | bash"
 
       - name: Checkout
-        uses: actions/checkout@f43a0e5ff2bd294095638e18286ca9a3d1956744 # v3
+        uses: actions/checkout@v2
         with:
           fetch-depth: 0
 
       - name: Fetch base branch history
-        run: git fetch --no-tags --prune --depth=1 origin +refs/heads/master:refs/remotes/origin/master
+        run: git fetch origin master:master
 
       - name: Setup catalog validation
         run: |
-          sudo apt-get update -qq
-          sudo apt-get install -y python3-all-dev python3-pip python3-setuptools
+          sudo apt update > /dev/null 2>&1
+          sudo apt install -y python3-all-dev python3-pip python3-setuptools > /dev/null 2>&1
           git clone https://github.com/truenas/catalog_validation
-          sudo pip3 install --disable-pip-version-check --exists-action w -r catalog_validation/requirements.txt
+          sudo pip3 install --disable-pip-version-check --exists-action w -r catalog_validation/requirements.txt > /dev/null 2>&1
           sudo pip3 install -U catalog_validation/.
-
+          
       - name: Validate catalog format
         run: |
           /bin/bash -c "PWD=${pwd}; /usr/local/bin/catalog_validate validate --path $PWD"
-
+          
       - name: Validate changed charts
-        run: |
-          /bin/bash -c "PWD=${pwd}; sudo /usr/local/bin/charts_validate deploy --path $PWD"
+        run: /bin/bash -c "PWD=${pwd}; sudo /usr/local/bin/charts_validate deploy --path $PWD"
