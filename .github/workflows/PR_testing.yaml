@@ -11,37 +11,57 @@ jobs:
       image: ixsystems/catalog_validation:latest
 
     steps:
+      - name: Set up environment variables
+        run: |
+          echo "PYTHON_VERSION=$(python3 --version | awk '{print $2}')" >> $GITHUB_ENV
+          echo "PYTHON_BIN=$(which python3)" >> $GITHUB_ENV
+          echo "PIP_BIN=$(which pip3)" >> $GITHUB_ENV
+
       - name: Install Helm
         run: curl -fsSL https://raw.githubusercontent.com/helm/helm/master/scripts/get-helm-3 | bash
 
-      - name: Checkout
+      - name: Checkout code
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
-      - name: Mark directory as safe
+      - name: Mark Git directory as safe
         run: git config --global --add safe.directory /__w/truecharts-catalog/truecharts-catalog
 
       - name: Fetch base branch history
         run: git fetch --no-tags --prune --depth=1 origin +refs/heads/test-2:refs/remotes/origin/test-2
 
-      - name: Setup catalog validation
+      - name: Install Python dependencies
         run: |
           sudo apt-get update -qq
-          sudo apt-get install -y python3-all-dev python3-venv
-          python3 -m venv venv
-          . venv/bin/activate
+          sudo apt-get install -y python3-all-dev python3-pip python3-setuptools
           git clone https://github.com/truenas/catalog_validation
-          pip install --upgrade pip
-          pip install --disable-pip-version-check --exists-action w -r catalog_validation/requirements.txt
-          pip install -U catalog_validation/.
+          sudo ${{ env.PIP_BIN }} install --upgrade pip
+          sudo ${{ env.PIP_BIN }} install --disable-pip-version-check --exists-action w -r catalog_validation/requirements.txt
+          sudo ${{ env.PIP_BIN }} install -U catalog_validation/.
+
+      - name: Debug Environment and Installations
+        run: |
+          echo "### Debug Information ###"
+          echo "Python version: ${{ env.PYTHON_VERSION }}"
+          echo "Python binary location: ${{ env.PYTHON_BIN }}"
+          echo "PIP binary location: ${{ env.PIP_BIN }}"
+          echo
+          echo "Listing installed Python packages:"
+          ${{ env.PIP_BIN }} list
+          echo
+          echo "Checking if charts_validate is in /usr/local/bin:"
+          ls -l /usr/local/bin/charts_validate || echo "charts_validate not found in /usr/local/bin"
+          echo
+          echo "Checking if catalog_validate is in /usr/local/bin:"
+          ls -l /usr/local/bin/catalog_validate || echo "catalog_validate not found in /usr/local/bin"
 
       - name: Validate changed charts
         run: |
-          . venv/bin/activate
-          /bin/bash -c "PWD=${pwd}; sudo /usr/local/bin/charts_validate deploy --path $PWD"
+          echo "Running charts_validate..."
+          sudo /usr/local/bin/charts_validate deploy --path $PWD
 
       - name: Validate catalog format
         run: |
-          . venv/bin/activate
-          /bin/bash -c "PWD=${pwd}; /usr/local/bin/catalog_validate validate --path $PWD"
+          echo "Running catalog_validate..."
+          sudo /usr/local/bin/catalog_validate validate --path $PWD
