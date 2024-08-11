@@ -1,8 +1,0 @@
-ingress:
-  main:
-    enabled: true
-    hosts:
-      - host: gitea.example.com
-        paths:
-          - path: /
-            pathType: Prefix
