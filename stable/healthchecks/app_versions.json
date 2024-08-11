@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/healthchecks/15.0.13",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/healthchecks/15.0.13",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "3.3.20240527_15.0.13",
         "version": "15.0.13",
@@ -5339,13 +5339,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/healthchecks/15.0.12",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/healthchecks/15.0.12",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "3.3.20240527_15.0.12",
         "version": "15.0.12",
@@ -10675,13 +10675,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/healthchecks/14.9.17",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/healthchecks/14.9.17",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "3.3.20240422_14.9.17",
         "version": "14.9.17",
@@ -15682,13 +15682,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/healthchecks/14.9.16",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/healthchecks/14.9.16",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "3.3.20240415_14.9.16",
         "version": "14.9.16",
@@ -20689,14 +20689,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/healthchecks/13.4.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/healthchecks/13.4.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "3.2.20240219_13.4.0",
         "version": "13.4.0",
@@ -25739,14 +25739,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/healthchecks/13.3.1",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/healthchecks/13.3.1",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "3.2.20240219_13.3.1",
         "version": "13.3.1",

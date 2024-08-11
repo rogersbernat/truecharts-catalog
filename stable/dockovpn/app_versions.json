@@ -3,11 +3,11 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/dockovpn/2.0.9",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/dockovpn/2.0.9",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "1.14.0_2.0.9",
         "version": "2.0.9",
@@ -5264,11 +5264,11 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/dockovpn/2.0.8",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/dockovpn/2.0.8",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "1.14.0_2.0.8",
         "version": "2.0.8",
@@ -10525,11 +10525,11 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/dockovpn/1.0.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/dockovpn/1.0.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "1.14.0_1.0.0",
         "version": "1.0.0",

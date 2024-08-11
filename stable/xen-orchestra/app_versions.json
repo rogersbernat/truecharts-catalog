@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/xen-orchestra/9.2.5",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/xen-orchestra/9.2.5",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "5.143.1_9.2.5",
         "version": "9.2.5",
@@ -5880,13 +5880,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/xen-orchestra/9.2.4",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/xen-orchestra/9.2.4",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "5.143.1_9.2.4",
         "version": "9.2.4",
@@ -11757,13 +11757,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/xen-orchestra/8.11.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/xen-orchestra/8.11.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "5.141.0_8.11.0",
         "version": "8.11.0",
@@ -17204,13 +17204,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/xen-orchestra/8.10.16",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/xen-orchestra/8.10.16",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "5.140.1_8.10.16",
         "version": "8.10.16",
@@ -22651,14 +22651,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/xen-orchestra/7.6.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/xen-orchestra/7.6.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "5.136.0_7.6.0",
         "version": "7.6.0",
@@ -28141,14 +28141,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/xen-orchestra/7.5.1",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/xen-orchestra/7.5.1",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "5.136.0_7.5.1",
         "version": "7.5.1",

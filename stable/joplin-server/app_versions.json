@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/joplin-server/18.0.8",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/joplin-server/18.0.8",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "2.14.2_18.0.8",
         "version": "18.0.8",
@@ -5786,13 +5786,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/joplin-server/18.0.7",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/joplin-server/18.0.7",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "2.14.2_18.0.7",
         "version": "18.0.7",
@@ -11569,13 +11569,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/joplin-server/17.8.14",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/joplin-server/17.8.14",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "2.14.2_17.8.14",
         "version": "17.8.14",
@@ -17481,13 +17481,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/joplin-server/17.8.13",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/joplin-server/17.8.13",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "2.14.2_17.8.13",
         "version": "17.8.13",
@@ -23393,14 +23393,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/joplin-server/16.4.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/joplin-server/16.4.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "2.14.2_16.4.0",
         "version": "16.4.0",
@@ -29380,14 +29380,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/joplin-server/16.3.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/joplin-server/16.3.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "2.14.2_16.3.0",
         "version": "16.3.0",

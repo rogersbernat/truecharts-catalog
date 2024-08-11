@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/monero-node/7.0.14",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/monero-node/7.0.14",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.18.3.3_7.0.14",
         "version": "7.0.14",
@@ -5427,13 +5427,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/monero-node/7.0.13",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/monero-node/7.0.13",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.18.3.3_7.0.13",
         "version": "7.0.13",
@@ -10851,13 +10851,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/monero-node/6.7.17",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/monero-node/6.7.17",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.18.3.3_6.7.17",
         "version": "6.7.17",
@@ -15946,13 +15946,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/monero-node/6.7.16",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/monero-node/6.7.16",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.18.3.3_6.7.16",
         "version": "6.7.16",
@@ -21041,12 +21041,12 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/monero-node/5.1.1",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/monero-node/5.1.1",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_5.1.1",
         "version": "5.1.1",
@@ -26799,12 +26799,12 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/monero-node/5.1.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/monero-node/5.1.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_5.1.0",
         "version": "5.1.0",
@@ -32557,13 +32557,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/monero-node/4.3.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/monero-node/4.3.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
+            "definitions/interface"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -38358,13 +38358,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/monero-node/4.2.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/monero-node/4.2.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
+            "definitions/interface"
         ],
         "human_version": "latest_4.2.0",
         "version": "4.2.0",

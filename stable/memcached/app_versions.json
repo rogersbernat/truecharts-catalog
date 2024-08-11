@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/memcached/13.0.13",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/memcached/13.0.13",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "1.6.27_13.0.13",
         "version": "13.0.13",
@@ -3678,13 +3678,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/memcached/13.0.12",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/memcached/13.0.12",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "1.6.27_13.0.12",
         "version": "13.0.12",
@@ -7353,13 +7353,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/memcached/12.9.15",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/memcached/12.9.15",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "1.6.26_12.9.15",
         "version": "12.9.15",
@@ -10800,13 +10800,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/memcached/12.9.14",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/memcached/12.9.14",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "1.6.26_12.9.14",
         "version": "12.9.14",

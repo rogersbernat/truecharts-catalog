@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/qbitrr/5.2.7",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/qbitrr/5.2.7",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "4.6.13_5.2.7",
         "version": "5.2.7",
@@ -4805,13 +4805,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/qbitrr/5.2.6",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/qbitrr/5.2.6",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "4.6.13_5.2.6",
         "version": "5.2.6",
@@ -9607,13 +9607,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/qbitrr/4.9.14",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/qbitrr/4.9.14",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "4.4.2_4.9.14",
         "version": "4.9.14",
@@ -13979,13 +13979,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/qbitrr/4.9.13",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/qbitrr/4.9.13",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "4.4.2_4.9.13",
         "version": "4.9.13",
@@ -18351,14 +18351,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/qbitrr/3.5.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/qbitrr/3.5.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "4.3.3_3.5.0",
         "version": "3.5.0",
@@ -22766,14 +22766,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/qbitrr/3.4.1",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/qbitrr/3.4.1",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "4.3.3_3.4.1",
         "version": "3.4.1",

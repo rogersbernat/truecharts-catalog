@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/twofauth/2.0.9",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/twofauth/2.0.9",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "5.1.1_2.0.9",
         "version": "2.0.9",
@@ -5580,13 +5580,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/twofauth/2.0.8",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/twofauth/2.0.8",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "5.1.1_2.0.8",
         "version": "2.0.8",
@@ -11157,13 +11157,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/twofauth/1.6.14",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/twofauth/1.6.14",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "5.1.1_1.6.14",
         "version": "1.6.14",
@@ -16405,13 +16405,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/twofauth/1.6.13",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/twofauth/1.6.13",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "5.1.1_1.6.13",
         "version": "1.6.13",

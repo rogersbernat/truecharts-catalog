@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/game-server-watcher/2.1.5",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/game-server-watcher/2.1.5",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "3.1.14_2.1.5",
         "version": "2.1.5",
@@ -5375,13 +5375,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/game-server-watcher/2.1.4",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/game-server-watcher/2.1.4",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "3.1.14_2.1.4",
         "version": "2.1.4",
@@ -10747,13 +10747,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/game-server-watcher/1.5.16",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/game-server-watcher/1.5.16",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "3.0.10_1.5.16",
         "version": "1.5.16",
@@ -15790,13 +15790,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/game-server-watcher/1.5.15",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/game-server-watcher/1.5.15",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "3.0.10_1.5.15",
         "version": "1.5.15",

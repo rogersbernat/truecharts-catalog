@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/incubator/wisemapping/1.0.4",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/incubator/wisemapping/1.0.4",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_1.0.4",
         "version": "1.0.4",
@@ -5649,13 +5649,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/incubator/wisemapping/1.0.3",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/incubator/wisemapping/1.0.3",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_1.0.3",
         "version": "1.0.3",
@@ -11334,13 +11334,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/incubator/wisemapping/0.2.18",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/incubator/wisemapping/0.2.18",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_0.2.18",
         "version": "0.2.18",
@@ -17109,13 +17109,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/incubator/wisemapping/0.2.17",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/incubator/wisemapping/0.2.17",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_0.2.17",
         "version": "0.2.17",

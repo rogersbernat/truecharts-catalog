@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/heimdall/21.0.12",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/heimdall/21.0.12",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "2.6.1_21.0.12",
         "version": "21.0.12",
@@ -5276,13 +5276,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/heimdall/21.0.11",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/heimdall/21.0.11",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "2.6.1_21.0.11",
         "version": "21.0.11",
@@ -10549,13 +10549,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/heimdall/20.8.17",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/heimdall/20.8.17",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "2.6.1_20.8.17",
         "version": "20.8.17",
@@ -15493,13 +15493,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/heimdall/20.8.16",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/heimdall/20.8.16",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "2.6.1_20.8.16",
         "version": "20.8.16",
@@ -20437,14 +20437,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/heimdall/19.3.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/heimdall/19.3.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "2.6.1_19.3.0",
         "version": "19.3.0",
@@ -25424,14 +25424,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/heimdall/19.2.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/heimdall/19.2.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "2.6.1_19.2.0",
         "version": "19.2.0",

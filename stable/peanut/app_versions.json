@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/peanut/2.0.11",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/peanut/2.0.11",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "2.5.2_2.0.11",
         "version": "2.0.11",
@@ -4706,13 +4706,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/peanut/2.0.10",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/peanut/2.0.10",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "2.5.2_2.0.10",
         "version": "2.0.10",
@@ -9409,13 +9409,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/peanut/1.6.14",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/peanut/1.6.14",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "2.5.0_1.6.14",
         "version": "1.6.14",
@@ -13884,13 +13884,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/peanut/1.6.13",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/peanut/1.6.13",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "2.5.0_1.6.13",
         "version": "1.6.13",

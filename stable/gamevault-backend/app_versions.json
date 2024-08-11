@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/gamevault-backend/7.1.5",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/gamevault-backend/7.1.5",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "12.1.1_7.1.5",
         "version": "7.1.5",
@@ -7092,13 +7092,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/gamevault-backend/7.1.4",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/gamevault-backend/7.1.4",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "12.1.1_7.1.4",
         "version": "7.1.4",
@@ -14181,13 +14181,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/gamevault-backend/6.1.15",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/gamevault-backend/6.1.15",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "11.0.3_6.1.15",
         "version": "6.1.15",
@@ -21197,13 +21197,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/gamevault-backend/6.1.14",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/gamevault-backend/6.1.14",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "11.0.3_6.1.14",
         "version": "6.1.14",
@@ -28213,13 +28213,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/gamevault-backend/5.8.3",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/gamevault-backend/5.8.3",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "10.3.3_5.8.3",
         "version": "5.8.3",
@@ -35209,13 +35209,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/gamevault-backend/5.8.2",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/gamevault-backend/5.8.2",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "10.3.2_5.8.2",
         "version": "5.8.2",
@@ -42205,14 +42205,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/gamevault-backend/4.5.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/gamevault-backend/4.5.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "10.2.0_4.5.0",
         "version": "4.5.0",
@@ -49296,14 +49296,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/gamevault-backend/4.4.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/gamevault-backend/4.4.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "10.2.0_4.4.0",
         "version": "4.4.0",

@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/archivebox/3.0.10",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/archivebox/3.0.10",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_3.0.10",
         "version": "3.0.10",
@@ -5308,13 +5308,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/archivebox/3.0.9",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/archivebox/3.0.9",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_3.0.9",
         "version": "3.0.9",
@@ -10613,13 +10613,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/archivebox/2.0.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/archivebox/2.0.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_2.0.0",
         "version": "2.0.0",

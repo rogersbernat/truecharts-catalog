@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/nzbhydra/22.1.2",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/nzbhydra/22.1.2",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "7.1.0_22.1.2",
         "version": "22.1.2",
@@ -5277,13 +5277,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/nzbhydra/22.1.1",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/nzbhydra/22.1.1",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "7.1.0_22.1.1",
         "version": "22.1.1",
@@ -10551,13 +10551,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/nzbhydra/21.1.2",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/nzbhydra/21.1.2",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "6.2.1_21.1.2",
         "version": "21.1.2",
@@ -15825,13 +15825,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/nzbhydra/21.1.1",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/nzbhydra/21.1.1",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "6.2.1_21.1.1",
         "version": "21.1.1",
@@ -21099,13 +21099,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/nzbhydra/20.1.14",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/nzbhydra/20.1.14",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "6.0.0_20.1.14",
         "version": "20.1.14",
@@ -26044,13 +26044,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/nzbhydra/20.1.13",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/nzbhydra/20.1.13",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "6.0.0_20.1.13",
         "version": "20.1.13",
@@ -30989,13 +30989,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/nzbhydra/19.7.7",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/nzbhydra/19.7.7",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "5.3.11_19.7.7",
         "version": "19.7.7",
@@ -35934,13 +35934,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/nzbhydra/19.7.6",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/nzbhydra/19.7.6",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "5.3.11_19.7.6",
         "version": "19.7.6",
@@ -40879,14 +40879,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/nzbhydra/18.3.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/nzbhydra/18.3.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "5.3.8_18.3.0",
         "version": "18.3.0",
@@ -45867,14 +45867,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/nzbhydra/18.2.1",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/nzbhydra/18.2.1",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "5.3.8_18.2.1",
         "version": "18.2.1",

@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/plextraktsync/8.1.11",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/plextraktsync/8.1.11",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.30.10_8.1.11",
         "version": "8.1.11",
@@ -4240,13 +4240,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/plextraktsync/8.1.10",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/plextraktsync/8.1.10",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.30.10_8.1.10",
         "version": "8.1.10",
@@ -8477,13 +8477,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/plextraktsync/7.9.16",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/plextraktsync/7.9.16",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.29.14_7.9.16",
         "version": "7.9.16",
@@ -12385,13 +12385,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/plextraktsync/7.9.15",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/plextraktsync/7.9.15",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.29.14_7.9.15",
         "version": "7.9.15",
@@ -16293,14 +16293,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/plextraktsync/6.4.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/plextraktsync/6.4.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "0.28.20_6.4.0",
         "version": "6.4.0",
@@ -20244,14 +20244,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/plextraktsync/6.3.1",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/plextraktsync/6.3.1",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "0.28.20_6.3.1",
         "version": "6.3.1",

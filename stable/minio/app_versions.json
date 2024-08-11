@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/minio/12.1.7",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/minio/12.1.7",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "2024.05.28_12.1.7",
         "version": "12.1.7",
@@ -5927,13 +5927,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/minio/12.1.6",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/minio/12.1.6",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "2024.05.27_12.1.6",
         "version": "12.1.6",
@@ -11851,13 +11851,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/minio/11.9.14",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/minio/11.9.14",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "2024.03.10_11.9.14",
         "version": "11.9.14",
@@ -17446,13 +17446,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/minio/11.9.13",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/minio/11.9.13",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "2024.03.10_11.9.13",
         "version": "11.9.13",
@@ -23041,14 +23041,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/minio/10.3.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/minio/10.3.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "2024.02.09_10.3.0",
         "version": "10.3.0",
@@ -28679,14 +28679,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/minio/10.2.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/minio/10.2.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "2024.02.09_10.2.0",
         "version": "10.2.0",

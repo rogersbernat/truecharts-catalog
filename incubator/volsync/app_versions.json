@@ -3,11 +3,11 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/incubator/volsync/1.0.7",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/incubator/volsync/1.0.7",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "0.9.1_1.0.7",
         "version": "1.0.7",
@@ -2954,11 +2954,11 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/incubator/volsync/1.0.6",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/incubator/volsync/1.0.6",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "0.9.1_1.0.6",
         "version": "1.0.6",
@@ -5905,11 +5905,11 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/incubator/volsync/0.0.1",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/incubator/volsync/0.0.1",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "0.9.1_0.0.1",
         "version": "0.0.1",

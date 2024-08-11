@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/speedtest-tracker/2.1.8",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/speedtest-tracker/2.1.8",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.19.0_2.1.8",
         "version": "2.1.8",
@@ -5763,13 +5763,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/speedtest-tracker/2.1.7",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/speedtest-tracker/2.1.7",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.19.0_2.1.7",
         "version": "2.1.7",
@@ -11523,13 +11523,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/speedtest-tracker/1.11.10",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/speedtest-tracker/1.11.10",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.19.0_1.11.10",
         "version": "1.11.10",
@@ -17396,13 +17396,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/speedtest-tracker/1.11.9",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/speedtest-tracker/1.11.9",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.19.0_1.11.9",
         "version": "1.11.9",

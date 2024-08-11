@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/readarr/22.0.12",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/readarr/22.0.12",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.3.27.2538_22.0.12",
         "version": "22.0.12",
@@ -5373,13 +5373,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/readarr/22.0.11",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/readarr/22.0.11",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.3.27.2538_22.0.11",
         "version": "22.0.11",
@@ -10743,13 +10743,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/readarr/21.6.18",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/readarr/21.6.18",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.3.23.2506_21.6.18",
         "version": "21.6.18",
@@ -15784,13 +15784,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/readarr/21.6.17",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/readarr/21.6.17",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.3.23.2506_21.6.17",
         "version": "21.6.17",
@@ -20825,13 +20825,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/readarr/20.2.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/readarr/20.2.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.3.18.2411_20.2.0",
         "version": "20.2.0",
@@ -25866,13 +25866,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/readarr/20.1.3",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/readarr/20.1.3",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.3.18.2411_20.1.3",
         "version": "20.1.3",
@@ -30907,14 +30907,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/readarr/19.3.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/readarr/19.3.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "0.3.18.2411_19.3.0",
         "version": "19.3.0",
@@ -35991,14 +35991,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/readarr/19.2.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/readarr/19.2.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "0.3.18.2411_19.2.0",
         "version": "19.2.0",

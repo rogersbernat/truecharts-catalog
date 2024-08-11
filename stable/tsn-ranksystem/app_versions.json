@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/tsn-ranksystem/2.1.9",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/tsn-ranksystem/2.1.9",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_2.1.9",
         "version": "2.1.9",
@@ -5320,13 +5320,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/tsn-ranksystem/2.1.8",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/tsn-ranksystem/2.1.8",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_2.1.8",
         "version": "2.1.8",
@@ -10637,13 +10637,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/tsn-ranksystem/1.5.25",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/tsn-ranksystem/1.5.25",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_1.5.25",
         "version": "1.5.25",
@@ -15625,13 +15625,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/tsn-ranksystem/1.5.24",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/tsn-ranksystem/1.5.24",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_1.5.24",
         "version": "1.5.24",

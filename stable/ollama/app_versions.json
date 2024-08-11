@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/ollama/6.0.31",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/ollama/6.0.31",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.1.39_6.0.31",
         "version": "6.0.31",
@@ -6640,13 +6640,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/ollama/6.0.30",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/ollama/6.0.30",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.1.39_6.0.30",
         "version": "6.0.30",
@@ -13277,13 +13277,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/ollama/5.4.26",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/ollama/5.4.26",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.1.32_5.4.26",
         "version": "5.4.26",
@@ -19476,13 +19476,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/ollama/5.4.25",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/ollama/5.4.25",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.1.32_5.4.25",
         "version": "5.4.25",
@@ -25675,13 +25675,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/ollama/4.0.5",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/ollama/4.0.5",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.1.29_4.0.5",
         "version": "4.0.5",
@@ -31729,13 +31729,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/ollama/4.0.4",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/ollama/4.0.4",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.1.29_4.0.4",
         "version": "4.0.4",
@@ -37783,13 +37783,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/ollama/3.1.5",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/ollama/3.1.5",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.1.27_3.1.5",
         "version": "3.1.5",
@@ -43837,13 +43837,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/ollama/3.1.4",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/ollama/3.1.4",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.1.27_3.1.4",
         "version": "3.1.4",
@@ -49891,13 +49891,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/ollama/2.0.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/ollama/2.0.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.1.25_2.0.0",
         "version": "2.0.0",
@@ -55945,14 +55945,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/ollama/1.2.3",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/ollama/1.2.3",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "0.1.25_1.2.3",
         "version": "1.2.3",
@@ -62042,14 +62042,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/ollama/1.2.2",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/ollama/1.2.2",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "0.1.25_1.2.2",
         "version": "1.2.2",

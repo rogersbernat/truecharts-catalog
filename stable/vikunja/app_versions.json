@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/vikunja/14.1.7",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/vikunja/14.1.7",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.22.1_14.1.7",
         "version": "14.1.7",
@@ -6964,13 +6964,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/vikunja/14.1.6",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/vikunja/14.1.6",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.22.1_14.1.6",
         "version": "14.1.6",
@@ -13925,13 +13925,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/vikunja/13.11.5",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/vikunja/13.11.5",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.22.1_13.11.5",
         "version": "13.11.5",
@@ -21015,13 +21015,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/vikunja/13.11.4",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/vikunja/13.11.4",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.22.1_13.11.4",
         "version": "13.11.4",
@@ -28105,14 +28105,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/vikunja/12.4.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/vikunja/12.4.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "0.22.1_12.4.0",
         "version": "12.4.0",
@@ -35270,14 +35270,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/vikunja/12.3.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/vikunja/12.3.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "0.22.1_12.3.0",
         "version": "12.3.0",

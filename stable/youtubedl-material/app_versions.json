@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/youtubedl-material/11.0.8",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/youtubedl-material/11.0.8",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "4.3.2_11.0.8",
         "version": "11.0.8",
@@ -8128,13 +8128,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/youtubedl-material/11.0.7",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/youtubedl-material/11.0.7",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "4.3.2_11.0.7",
         "version": "11.0.7",
@@ -16253,13 +16253,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/youtubedl-material/10.10.17",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/youtubedl-material/10.10.17",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "4.3.2_10.10.17",
         "version": "10.10.17",
@@ -23645,13 +23645,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/youtubedl-material/10.10.16",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/youtubedl-material/10.10.16",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "4.3.2_10.10.16",
         "version": "10.10.16",
@@ -31037,14 +31037,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/youtubedl-material/9.4.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/youtubedl-material/9.4.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "4.3.2_9.4.0",
         "version": "9.4.0",
@@ -38472,14 +38472,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/youtubedl-material/9.3.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/youtubedl-material/9.3.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "4.3.2_9.3.0",
         "version": "9.3.0",

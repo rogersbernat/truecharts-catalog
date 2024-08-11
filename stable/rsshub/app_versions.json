@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/rsshub/13.1.39",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/rsshub/13.1.39",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_13.1.39",
         "version": "13.1.39",
@@ -4771,13 +4771,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/rsshub/13.1.38",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/rsshub/13.1.38",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_13.1.38",
         "version": "13.1.38",
@@ -9539,13 +9539,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/rsshub/12.10.54",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/rsshub/12.10.54",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_12.10.54",
         "version": "12.10.54",
@@ -14079,13 +14079,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/rsshub/12.10.53",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/rsshub/12.10.53",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_12.10.53",
         "version": "12.10.53",
@@ -18619,14 +18619,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/rsshub/11.5.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/rsshub/11.5.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "latest_11.5.0",
         "version": "11.5.0",
@@ -23202,14 +23202,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/rsshub/11.4.1",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/rsshub/11.4.1",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "latest_11.4.1",
         "version": "11.4.1",

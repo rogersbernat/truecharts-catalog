@@ -3,11 +3,11 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/incubator/dockovpn/0.0.3",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/incubator/dockovpn/0.0.3",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "1.14.0_0.0.3",
         "version": "0.0.3",
@@ -4935,11 +4935,11 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/incubator/dockovpn/0.0.2",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/incubator/dockovpn/0.0.2",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone"
         ],
         "human_version": "1.14.0_0.0.2",
         "version": "0.0.2",

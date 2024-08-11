@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/wg-easy/14.0.8",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/wg-easy/14.0.8",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "13.0.0_14.0.8",
         "version": "14.0.8",
@@ -5457,13 +5457,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/wg-easy/14.0.7",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/wg-easy/14.0.7",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "13.0.0_14.0.7",
         "version": "14.0.7",
@@ -10911,13 +10911,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/wg-easy/13.0.4",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/wg-easy/13.0.4",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "12.0.0_13.0.4",
         "version": "13.0.4",
@@ -16366,13 +16366,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/wg-easy/13.0.3",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/wg-easy/13.0.3",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "12.0.0_13.0.3",
         "version": "13.0.3",
@@ -21837,13 +21837,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/wg-easy/12.2.14",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/wg-easy/12.2.14",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "12.0.0_12.2.14",
         "version": "12.2.14",
@@ -26963,13 +26963,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/wg-easy/12.2.13",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/wg-easy/12.2.13",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "12.0.0_12.2.13",
         "version": "12.2.13",
@@ -32089,13 +32089,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/wg-easy/11.6.1",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/wg-easy/11.6.1",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "11.0.0_11.6.1",
         "version": "11.6.1",
@@ -37197,13 +37197,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/wg-easy/11.6.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/wg-easy/11.6.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "11.0.0_11.6.0",
         "version": "11.6.0",
@@ -42305,14 +42305,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/wg-easy/10.1.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/wg-easy/10.1.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "11.0.0_10.1.0",
         "version": "10.1.0",
@@ -47456,14 +47456,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/wg-easy/10.0.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/wg-easy/10.0.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "11.0.0_10.0.0",
         "version": "10.0.0",
@@ -52607,14 +52607,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/wg-easy/9.1.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/wg-easy/9.1.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "10.0.0_9.1.0",
         "version": "9.1.0",

@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/foldingathome/10.0.12",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/foldingathome/10.0.12",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "7.6.21_10.0.12",
         "version": "10.0.12",
@@ -5360,13 +5360,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/foldingathome/10.0.11",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/foldingathome/10.0.11",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "7.6.21_10.0.11",
         "version": "10.0.11",
@@ -10717,13 +10717,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/foldingathome/9.8.16",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/foldingathome/9.8.16",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "7.6.21_9.8.16",
         "version": "9.8.16",
@@ -15745,13 +15745,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/foldingathome/9.8.15",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/foldingathome/9.8.15",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "7.6.21_9.8.15",
         "version": "9.8.15",
@@ -20773,14 +20773,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/foldingathome/8.3.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/foldingathome/8.3.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "7.6.21_8.3.0",
         "version": "8.3.0",
@@ -25844,14 +25844,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/foldingathome/8.2.1",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/foldingathome/8.2.1",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "7.6.21_8.2.1",
         "version": "8.2.1",

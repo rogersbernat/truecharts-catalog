@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/logitech-media-server/12.0.18",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/logitech-media-server/12.0.18",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "stable_12.0.18",
         "version": "12.0.18",
@@ -5534,13 +5534,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/logitech-media-server/12.0.17",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/logitech-media-server/12.0.17",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "stable_12.0.17",
         "version": "12.0.17",
@@ -11065,13 +11065,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/logitech-media-server/11.8.24",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/logitech-media-server/11.8.24",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "stable_11.8.24",
         "version": "11.8.24",
@@ -16267,13 +16267,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/logitech-media-server/11.8.23",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/logitech-media-server/11.8.23",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "stable_11.8.23",
         "version": "11.8.23",
@@ -21469,14 +21469,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/logitech-media-server/10.3.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/logitech-media-server/10.3.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "stable_10.3.0",
         "version": "10.3.0",
@@ -26714,14 +26714,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/logitech-media-server/10.2.1",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/logitech-media-server/10.2.1",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "stable_10.2.1",
         "version": "10.2.1",

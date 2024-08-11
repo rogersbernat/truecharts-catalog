@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/handbrake/22.0.8",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/handbrake/22.0.8",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "24.03.1_22.0.8",
         "version": "22.0.8",
@@ -6716,13 +6716,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/handbrake/22.0.7",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/handbrake/22.0.7",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "24.03.1_22.0.7",
         "version": "22.0.7",
@@ -13429,13 +13429,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/handbrake/21.9.14",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/handbrake/21.9.14",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "24.03.1_21.9.14",
         "version": "21.9.14",
@@ -19611,13 +19611,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/handbrake/21.9.13",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/handbrake/21.9.13",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "24.03.1_21.9.13",
         "version": "21.9.13",
@@ -25793,14 +25793,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/handbrake/20.2.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/handbrake/20.2.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "24.01.2_20.2.0",
         "version": "20.2.0",
@@ -32018,14 +32018,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/handbrake/20.1.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/handbrake/20.1.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "24.01.2_20.1.0",
         "version": "20.1.0",

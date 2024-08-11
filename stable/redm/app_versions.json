@@ -3,12 +3,12 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/redm/6.0.8",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/redm/6.0.8",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_6.0.8",
         "version": "6.0.8",
@@ -5380,12 +5380,12 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/redm/6.0.7",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/redm/6.0.7",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_6.0.7",
         "version": "6.0.7",
@@ -10757,12 +10757,12 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/redm/5.8.14",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/redm/5.8.14",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_5.8.14",
         "version": "5.8.14",
@@ -15805,12 +15805,12 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/redm/5.8.13",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/redm/5.8.13",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "latest_5.8.13",
         "version": "5.8.13",
@@ -20853,13 +20853,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/redm/4.3.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/redm/4.3.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
+            "definitions/interface"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -25944,13 +25944,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/redm/4.2.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/redm/4.2.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
+            "definitions/interface"
         ],
         "human_version": "latest_4.2.0",
         "version": "4.2.0",

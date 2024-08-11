@@ -3,12 +3,12 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/rstudio/7.0.11",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/rstudio/7.0.11",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "4.4.0_7.0.11",
         "version": "7.0.11",
@@ -5633,12 +5633,12 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/rstudio/7.0.10",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/rstudio/7.0.10",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "4.4.0_7.0.10",
         "version": "7.0.10",
@@ -11263,12 +11263,12 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/rstudio/6.9.1",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/rstudio/6.9.1",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "4.4.0_6.9.1",
         "version": "6.9.1",
@@ -16463,12 +16463,12 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/rstudio/6.9.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/rstudio/6.9.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/interface"
         ],
         "human_version": "4.4.0_6.9.0",
         "version": "6.9.0",
@@ -21663,13 +21663,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/rstudio/5.3.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/rstudio/5.3.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
+            "definitions/interface"
         ],
         "human_version": "4.3.2_5.3.0",
         "version": "5.3.0",
@@ -26906,13 +26906,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/rstudio/5.2.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/rstudio/5.2.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
+            "definitions/interface"
         ],
         "human_version": "4.3.2_5.2.0",
         "version": "5.2.0",

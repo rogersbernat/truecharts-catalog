@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/premium/blocky/15.2.2",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/premium/blocky/15.2.2",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.24.0_15.2.2",
         "version": "15.2.2",
@@ -6273,13 +6273,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/premium/blocky/15.2.1",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/premium/blocky/15.2.1",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.24.0_15.2.1",
         "version": "15.2.1",
@@ -12543,13 +12543,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/premium/blocky/14.8.21",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/premium/blocky/14.8.21",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.23.0_14.8.21",
         "version": "14.8.21",
@@ -19043,13 +19043,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/premium/blocky/14.8.20",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/premium/blocky/14.8.20",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.23.0_14.8.20",
         "version": "14.8.20",

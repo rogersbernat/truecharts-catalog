@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/mongo-express/7.0.10",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/mongo-express/7.0.10",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_7.0.10",
         "version": "7.0.10",
@@ -4759,13 +4759,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/mongo-express/7.0.9",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/mongo-express/7.0.9",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_7.0.9",
         "version": "7.0.9",
@@ -9515,13 +9515,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/mongo-express/6.10.18",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/mongo-express/6.10.18",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_6.10.18",
         "version": "6.10.18",
@@ -14043,13 +14043,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/mongo-express/6.10.17",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/mongo-express/6.10.17",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_6.10.17",
         "version": "6.10.17",
@@ -18571,14 +18571,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/mongo-express/5.4.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/mongo-express/5.4.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "latest_5.4.0",
         "version": "5.4.0",
@@ -23142,14 +23142,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/mongo-express/5.3.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/mongo-express/5.3.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "latest_5.3.0",
         "version": "5.3.0",

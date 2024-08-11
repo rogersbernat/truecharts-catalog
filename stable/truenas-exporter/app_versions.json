@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/truenas-exporter/2.0.8",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/truenas-exporter/2.0.8",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.15.1_2.0.8",
         "version": "2.0.8",
@@ -4030,13 +4030,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/truenas-exporter/2.0.7",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/truenas-exporter/2.0.7",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.15.1_2.0.7",
         "version": "2.0.7",
@@ -8057,13 +8057,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/truenas-exporter/1.7.14",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/truenas-exporter/1.7.14",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.15.1_1.7.14",
         "version": "1.7.14",
@@ -11957,13 +11957,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/truenas-exporter/1.7.13",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/truenas-exporter/1.7.13",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.15.1_1.7.13",
         "version": "1.7.13",

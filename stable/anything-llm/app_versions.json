@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/anything-llm/2.0.19",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/anything-llm/2.0.19",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_2.0.19",
         "version": "2.0.19",
@@ -7315,13 +7315,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/anything-llm/2.0.18",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/anything-llm/2.0.18",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_2.0.18",
         "version": "2.0.18",
@@ -14627,13 +14627,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/anything-llm/1.5.33",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/anything-llm/1.5.33",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_1.5.33",
         "version": "1.5.33",
@@ -21408,13 +21408,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/anything-llm/1.5.32",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/anything-llm/1.5.32",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "latest_1.5.32",
         "version": "1.5.32",

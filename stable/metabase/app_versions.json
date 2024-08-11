@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/metabase/4.0.14",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/metabase/4.0.14",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.49.12_4.0.14",
         "version": "4.0.14",
@@ -5625,13 +5625,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/metabase/4.0.13",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/metabase/4.0.13",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.49.12_4.0.13",
         "version": "4.0.13",
@@ -11247,13 +11247,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/metabase/3.9.18",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/metabase/3.9.18",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.49.7_3.9.18",
         "version": "3.9.18",
@@ -16998,13 +16998,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/metabase/3.9.17",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/metabase/3.9.17",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "0.49.7_3.9.17",
         "version": "3.9.17",
@@ -22749,14 +22749,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/metabase/2.3.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/metabase/2.3.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "0.48.6_2.3.0",
         "version": "2.3.0",
@@ -28575,14 +28575,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/metabase/2.2.1",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/metabase/2.2.1",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "0.48.6_2.2.1",
         "version": "2.2.1",

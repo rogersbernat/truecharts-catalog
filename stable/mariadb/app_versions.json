@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/mariadb/14.0.12",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/mariadb/14.0.12",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "11.3.2_14.0.12",
         "version": "14.0.12",
@@ -4338,13 +4338,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/mariadb/14.0.11",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/mariadb/14.0.11",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "11.3.2_14.0.11",
         "version": "14.0.11",
@@ -8673,13 +8673,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/mariadb/13.9.20",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/mariadb/13.9.20",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "11.3.2_13.9.20",
         "version": "13.9.20",
@@ -12679,13 +12679,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/mariadb/13.9.19",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/mariadb/13.9.19",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "11.3.2_13.9.19",
         "version": "13.9.19",

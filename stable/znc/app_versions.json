@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/znc/10.0.11",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/znc/10.0.11",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "1.9.0_10.0.11",
         "version": "10.0.11",
@@ -5275,13 +5275,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/znc/10.0.10",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/znc/10.0.10",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "1.9.0_10.0.10",
         "version": "10.0.10",
@@ -10547,13 +10547,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/znc/9.9.16",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/znc/9.9.16",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "1.9.0_9.9.16",
         "version": "9.9.16",
@@ -15490,13 +15490,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/znc/9.9.15",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/znc/9.9.15",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "1.9.0_9.9.15",
         "version": "9.9.15",
@@ -20433,14 +20433,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/znc/8.3.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/znc/8.3.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "1.8.2_8.3.0",
         "version": "8.3.0",
@@ -25419,14 +25419,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/znc/8.2.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/znc/8.2.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "1.8.2_8.2.0",
         "version": "8.2.0",

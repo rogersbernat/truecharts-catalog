@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/dokuwiki/12.0.15",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/dokuwiki/12.0.15",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "20240206.1.0_12.0.15",
         "version": "12.0.15",
@@ -5421,13 +5421,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/dokuwiki/12.0.14",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/dokuwiki/12.0.14",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "20240206.1.0_12.0.14",
         "version": "12.0.14",
@@ -10839,13 +10839,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/dokuwiki/11.4.16",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/dokuwiki/11.4.16",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "20240206.1.0_11.4.16",
         "version": "11.4.16",
@@ -15928,13 +15928,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/dokuwiki/11.4.15",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/dokuwiki/11.4.15",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "20240206.1.0_11.4.15",
         "version": "11.4.15",
@@ -21017,13 +21017,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/dokuwiki/10.4.1",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/dokuwiki/10.4.1",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "20230404.1.0_10.4.1",
         "version": "10.4.1",
@@ -26106,13 +26106,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/dokuwiki/10.4.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/dokuwiki/10.4.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "20230404.1.0_10.4.0",
         "version": "10.4.0",
@@ -31195,14 +31195,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/dokuwiki/9.3.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/dokuwiki/9.3.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "20230404.1.0_9.3.0",
         "version": "9.3.0",
@@ -36327,14 +36327,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/dokuwiki/9.2.1",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/dokuwiki/9.2.1",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "20230404.1.0_9.2.1",
         "version": "9.2.1",

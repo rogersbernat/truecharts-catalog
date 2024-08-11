@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/traccar/17.0.8",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/traccar/17.0.8",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "6.1.0_17.0.8",
         "version": "17.0.8",
@@ -5463,13 +5463,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/traccar/17.0.7",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/traccar/17.0.7",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "6.1.0_17.0.7",
         "version": "17.0.7",
@@ -10923,13 +10923,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/traccar/16.0.10",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/traccar/16.0.10",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "6.1.0_16.0.10",
         "version": "16.0.10",
@@ -16512,13 +16512,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/traccar/16.0.9",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/traccar/16.0.9",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "6.1.0_16.0.9",
         "version": "16.0.9",
@@ -22101,13 +22101,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/traccar/15.8.4",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/traccar/15.8.4",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "5.12.0_15.8.4",
         "version": "15.8.4",
@@ -27694,13 +27694,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/traccar/15.8.3",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/traccar/15.8.3",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "5.12.0_15.8.3",
         "version": "15.8.3",
@@ -33287,14 +33287,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/traccar/14.5.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/traccar/14.5.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "5.12.0_14.5.0",
         "version": "14.5.0",
@@ -38951,14 +38951,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/traccar/14.4.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/traccar/14.4.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "5.12.0_14.4.0",
         "version": "14.4.0",

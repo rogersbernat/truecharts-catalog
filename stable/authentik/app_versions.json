@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/authentik/26.1.8",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/authentik/26.1.8",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "2024.4.2_26.1.8",
         "version": "26.1.8",
@@ -9597,13 +9597,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/authentik/26.1.7",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/authentik/26.1.7",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "2024.4.2_26.1.7",
         "version": "26.1.7",
@@ -19191,13 +19191,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/authentik/25.4.5",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/authentik/25.4.5",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "2024.4.1_25.4.5",
         "version": "25.4.5",
@@ -28510,13 +28510,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/authentik/25.4.1",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/authentik/25.4.1",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "2024.4.0_25.4.1",
         "version": "25.4.1",
@@ -37829,13 +37829,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/authentik/24.10.9",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/authentik/24.10.9",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "2024.2.2_24.10.9",
         "version": "24.10.9",
@@ -47152,13 +47152,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/authentik/24.10.8",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/authentik/24.10.8",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "2024.2.2_24.10.8",
         "version": "24.10.8",
@@ -56475,14 +56475,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/authentik/23.1.4",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/authentik/23.1.4",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "2024.2.1_23.1.4",
         "version": "23.1.4",
@@ -65869,14 +65869,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/authentik/23.1.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/authentik/23.1.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "2024.2.0_23.1.0",
         "version": "23.1.0",
@@ -75263,14 +75263,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/authentik/19.4.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/authentik/19.4.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "2023.10.7_19.4.0",
         "version": "19.4.0",
@@ -84657,14 +84657,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/authentik/19.3.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/authentik/19.3.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "2023.10.7_19.3.0",
         "version": "19.3.0",

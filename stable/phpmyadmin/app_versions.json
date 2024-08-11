@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/phpmyadmin/6.0.9",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/phpmyadmin/6.0.9",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "5.2.1_6.0.9",
         "version": "6.0.9",
@@ -4714,13 +4714,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/phpmyadmin/6.0.8",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/phpmyadmin/6.0.8",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "5.2.1_6.0.8",
         "version": "6.0.8",
@@ -9425,13 +9425,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/phpmyadmin/5.8.14",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/phpmyadmin/5.8.14",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "5.2.1_5.8.14",
         "version": "5.8.14",
@@ -13908,13 +13908,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/phpmyadmin/5.8.13",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/phpmyadmin/5.8.13",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "normalize/interfaceConfiguration",
-            "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "definitions/interface",
+            "definitions/certificate"
         ],
         "human_version": "5.2.1_5.8.13",
         "version": "5.8.13",
@@ -18391,14 +18391,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/phpmyadmin/4.3.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/phpmyadmin/4.3.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "5.2.1_4.3.0",
         "version": "4.3.0",
@@ -22917,14 +22917,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/phpmyadmin/4.2.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/phpmyadmin/4.2.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
-            "definitions/interface",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "definitions/timezone",
+            "definitions/interface"
         ],
         "human_version": "5.2.1_4.2.0",
         "version": "4.2.0",
