@@ -1,0 +1,39 @@
+name: "Catalog Update and Validation"
+
+on:
+  push:
+    branches:
+      - 'renovate/github-actions'
+  workflow_dispatch:
+
+jobs:
+  validate-and-update:
+    runs-on: ubuntu-latest
+
+    container:
+      image: tccr.io/truecharts/catalog_validation:latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Add catalog as a safe directory
+        run: |
+          git config --global --add safe.directory ${{ github.workspace }}
+
+      - name: Update catalog
+        run: |
+          /usr/local/bin/catalog_update update --path ${{ github.workspace }}
+
+      - name: Validate catalog
+        run: |
+          /usr/local/bin/catalog_validate validate --path ${{ github.workspace }}
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+            commit_message: "Update and validate catalog changes"
+            commit_user_name: ${{ secrets.GIT_USER_NAME }}
+            commit_user_email: ${{ secrets.GIT_USER_EMAIL }}
+            commit_author: ${{ secrets.GIT_USER_NAME }} <${{ secrets.GIT_USER_EMAIL }}>
