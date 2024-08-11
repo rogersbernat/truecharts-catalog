@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     container:
-      image: ixsystems/catalog_validation:latest
+      image: tccr.io/truecharts/catalog_validation:latest
 
     steps:
       - name: Checkout repository
