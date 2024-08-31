@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/photoprism/22.2.2",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/photoprism/22.2.2",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "240528.0.0_22.2.2",
         "version": "22.2.2",
@@ -7134,13 +7134,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/photoprism/22.2.1",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/photoprism/22.2.1",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "240528.0.0_22.2.1",
         "version": "22.2.1",
@@ -14265,13 +14265,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/photoprism/21.0.11",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/photoprism/21.0.11",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "240420.0.0_21.0.11",
         "version": "21.0.11",
@@ -20764,13 +20764,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/photoprism/21.0.10",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/photoprism/21.0.10",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "240420.0.0_21.0.10",
         "version": "21.0.10",
@@ -27263,13 +27263,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/photoprism/20.15.13",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/photoprism/20.15.13",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "231128.0.0_20.15.13",
         "version": "20.15.13",
@@ -33766,13 +33766,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/photoprism/20.15.12",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/photoprism/20.15.12",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "231128.0.0_20.15.12",
         "version": "20.15.12",
@@ -40269,14 +40269,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/photoprism/19.4.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/photoprism/19.4.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/timezone"
         ],
         "human_version": "231128.0.0_19.4.0",
         "version": "19.4.0",
@@ -46811,14 +46811,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/photoprism/19.3.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/photoprism/19.3.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/timezone"
         ],
         "human_version": "231128.0.0_19.3.0",
         "version": "19.3.0",

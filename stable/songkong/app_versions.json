@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/songkong/6.0.10",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/songkong/6.0.10",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_6.0.10",
         "version": "6.0.10",
@@ -5881,13 +5881,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/songkong/6.0.9",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/songkong/6.0.9",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_6.0.9",
         "version": "6.0.9",
@@ -11759,13 +11759,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/songkong/5.8.14",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/songkong/5.8.14",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_5.8.14",
         "version": "5.8.14",
@@ -17207,13 +17207,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/songkong/5.8.13",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/songkong/5.8.13",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "latest_5.8.13",
         "version": "5.8.13",
@@ -22655,14 +22655,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/songkong/4.3.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/songkong/4.3.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/timezone"
         ],
         "human_version": "latest_4.3.0",
         "version": "4.3.0",
@@ -28146,14 +28146,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/songkong/4.2.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/songkong/4.2.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/timezone"
         ],
         "human_version": "latest_4.2.0",
         "version": "4.2.0",

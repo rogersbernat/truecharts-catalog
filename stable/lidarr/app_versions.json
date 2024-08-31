@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/lidarr/22.1.6",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/lidarr/22.1.6",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.3.3.4204_22.1.6",
         "version": "22.1.6",
@@ -5370,13 +5370,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/lidarr/22.1.5",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/lidarr/22.1.5",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.3.3.4204_22.1.5",
         "version": "22.1.5",
@@ -10737,13 +10737,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/lidarr/21.6.17",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/lidarr/21.6.17",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.2.5.4141_21.6.17",
         "version": "21.6.17",
@@ -15775,13 +15775,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/lidarr/21.6.16",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/lidarr/21.6.16",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.2.5.4141_21.6.16",
         "version": "21.6.16",
@@ -20813,13 +20813,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/lidarr/20.3.1",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/lidarr/20.3.1",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.2.0.4053_20.3.1",
         "version": "20.3.1",
@@ -25851,13 +25851,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/lidarr/20.3.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/lidarr/20.3.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.2.0.4045_20.3.0",
         "version": "20.3.0",
@@ -30889,14 +30889,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/lidarr/19.3.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/lidarr/19.3.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/timezone"
         ],
         "human_version": "2.1.7.4030_19.3.0",
         "version": "19.3.0",
@@ -35970,14 +35970,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/lidarr/19.2.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/lidarr/19.2.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/timezone"
         ],
         "human_version": "2.1.7.4030_19.2.0",
         "version": "19.2.0",

@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/jellyfin/19.1.11",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/jellyfin/19.1.11",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "10.9.3_19.1.11",
         "version": "19.1.11",
@@ -5903,13 +5903,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/jellyfin/19.1.10",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/jellyfin/19.1.10",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "10.9.3_19.1.10",
         "version": "19.1.10",
@@ -11803,13 +11803,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/jellyfin/18.8.17",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/jellyfin/18.8.17",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "10.8.13_18.8.17",
         "version": "18.8.17",
@@ -17273,13 +17273,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/jellyfin/18.8.16",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/jellyfin/18.8.16",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "10.8.13_18.8.16",
         "version": "18.8.16",
@@ -22743,14 +22743,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/jellyfin/17.3.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/jellyfin/17.3.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/timezone"
         ],
         "human_version": "10.8.13_17.3.0",
         "version": "17.3.0",
@@ -28256,14 +28256,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/jellyfin/17.2.1",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/jellyfin/17.2.1",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/timezone"
         ],
         "human_version": "10.8.13_17.2.1",
         "version": "17.2.1",

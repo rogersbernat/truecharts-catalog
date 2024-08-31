@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/tdarr-node/10.2.2",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/tdarr-node/10.2.2",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.19.01_10.2.2",
         "version": "10.2.2",
@@ -7026,13 +7026,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/tdarr-node/10.2.1",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/tdarr-node/10.2.1",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.19.01_10.2.1",
         "version": "10.2.1",
@@ -14049,13 +14049,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/tdarr-node/9.8.14",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/tdarr-node/9.8.14",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.17.01_9.8.14",
         "version": "9.8.14",
@@ -20440,13 +20440,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/tdarr-node/9.8.13",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/tdarr-node/9.8.13",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "normalize/interfaceConfiguration",
+            "definitions/interface",
             "definitions/certificate",
-            "definitions/interface"
+            "definitions/timezone",
+            "normalize/interfaceConfiguration"
         ],
         "human_version": "2.17.01_9.8.13",
         "version": "9.8.13",
@@ -26831,14 +26831,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/tdarr-node/8.3.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/tdarr-node/8.3.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/timezone"
         ],
         "human_version": "2.17.01_8.3.0",
         "version": "8.3.0",
@@ -33265,14 +33265,14 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/tdarr-node/8.2.0",
-        "last_update": "2024-05-29 12:35:14",
+        "location": "/catalog/stable/tdarr-node/8.2.0",
+        "last_update": "2024-08-08 14:05:40",
         "required_features": [
-            "definitions/timezone",
-            "definitions/gpuConfiguration",
             "definitions/interface",
+            "definitions/certificate",
+            "definitions/gpuConfiguration",
             "normalize/interfaceConfiguration",
-            "definitions/certificate"
+            "definitions/timezone"
         ],
         "human_version": "2.17.01_8.2.0",
         "version": "8.2.0",
